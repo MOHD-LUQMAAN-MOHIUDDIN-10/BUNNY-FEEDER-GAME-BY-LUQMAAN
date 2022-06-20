@@ -1,2 +1,1 @@
-# BUNNY-FEEDER-GAME-BY-LUQMAAN
-FEED THE BUNNY!!OR ELSE IT WILL CRY!!!!!!!!!!!!!!
+# bunny_feeder.github.io
